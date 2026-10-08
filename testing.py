@@ -8,4 +8,4 @@ print("The sum of a and b is:", sum)
 num1 = 10
 num2 = 5
 result = num1 - num2
-print(result)
+print("The result of the subtraction is:", result)
